@@ -1,8 +1,5 @@
 # Otrais Praktiskais Darbs
-Noteikumi:
--   Izvēlas kas sāks spēli: cilvēks vai dators
--	Tiek iedots “random” skaitlis (intervālā no 10 līdz 20)
--	Spēlētāji izdara gājienus secīgi
--	Gājiena laikā spēlētājam ir iespēja izvēlēties starp skaitļiem -1, -2, un -3, kas tiks atņemts no iedotā skaitļa
--	Spēle beidzas, kad ir sasniegts skaitlis 0
--	Ja ir tavs gājiens un skaitlis ir 0 tu esi zaudējis
+211RDB449
+-   2.pd.ows - Orange rīka izveidotais fails
+-	League of Legends Champion Stats 13.3.csv - Orģinālā datu kopa
+-	League of Legends Champion Stats 13.3(updated2).csv - Manis pārveidotā datu kopa darbam
